@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Athurlux
+# 👋 Hi, I’m Arthur Kitandwe 
 
 I spend most of my time arguing with **MikroTik** routers and building systems like **Agrinal** and **Pesafii** so I don't have to do things manually. If it's broken, I’m probably the one who tried to "optimize" it.
 
